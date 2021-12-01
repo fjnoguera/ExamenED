@@ -9,16 +9,6 @@ package examened;
  *
  * @author examened
  */
-public class ExamenED {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        
-        
-        
-    }
+class i<T0, T1> {
     
 }
